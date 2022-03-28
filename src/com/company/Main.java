@@ -7,5 +7,6 @@ public class Main {
         System.out.println("2");
         System.out.println("jhfiahjfjwaf");
         System.out.println("jwaogfaw");
+        System.out.println("Tossa kan sjuka grejer");
     }
 }
