@@ -8,5 +8,7 @@ public class Main {
         System.out.println("jhfiahjfjwaf");
         System.out.println("jwaogfaw");
         System.out.println("Tossa kan sjuka grejer");
+        System.out.println("ändra lite");
+        System.out.println("Tossa skriver lite");
     }
 }
